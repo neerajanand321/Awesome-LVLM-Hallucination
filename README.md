@@ -856,8 +856,13 @@ Note: 'soon' will be replaced with brief description!
 221. **LayerCD**: [Mitigating Hallucination in Multimodal LLMs with Layer Contrastive Decoding](https://arxiv.org/pdf/2509.25177) (29 September, 2025)  [![Star](https://img.shields.io/github/stars/maifoundations/LayerCD.svg?style=social&label=Star)](https://github.com/maifoundations/LayerCD)
      - soon
 222. **GACD**: [Mitigating Multimodal Hallucinations via Gradient-based Self-Reflection](https://arxiv.org/pdf/2509.03113) (01 October, 2025) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
-     - soon
-223. Up to Date (03 October, 2025) and SOTA research work loading...
+     - soon  
+223. **CRoPS**: [A Training-Free Hallucination Mitigation Framework for Vision-Language Models](https://openreview.net/forum?id=KQSoZDPVGX) (03 January, 2026) [![Star](https://img.shields.io/github/stars/whwangovo/VisionWeaver.svg?style=social&label=Star)](https://github.com/ubamba98/CRoPS-Mitigate-Hallucinations-in-Vision-Language-Models)
+     - Introduces CRoPS, a framework that reduces hallucinations in Vision-Language Models without requiring extra training or data.
+     - Improves on prior methods by selectively removing key text tokens to better identify and subtract hallucinated content.
+     - Uses a multi-model contrastive decoding approach to tackle diverse hallucination sources, especially during long generations.
+     - Increases performance by 20% on the CHAIR benchmark and delivers consistent gains across three major model families.
+224. Up to Date (03 October, 2025) and SOTA research work loading...
   
 Note: 'soon' will be replaced with brief description! 
    
